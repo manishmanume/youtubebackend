@@ -1,0 +1,16 @@
+{
+  "name": "youtube-back",
+  "version": "1.0.0",
+  "description": "A backend for youtube",
+  "keywords": [
+    "JavaScript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Manish Mehta",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  }
+}
